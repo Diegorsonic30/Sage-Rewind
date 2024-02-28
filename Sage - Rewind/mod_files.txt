@@ -1,2 +1,2 @@
-/raw/character/sage.pac
-mod.ini
+add raw/character/sage.pac
+add mod.ini
